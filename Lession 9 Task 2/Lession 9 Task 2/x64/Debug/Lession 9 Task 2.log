@@ -1,6 +1,0 @@
-﻿  Lession 9 Task 2.cpp
-C:\Users\italy\source\repos\Lession 9 Task 2\Lession 9 Task 2.cpp(90,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\italy\source\repos\Lession 9 Task 2\Lession 9 Task 2.cpp(90,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\italy\source\repos\Lession 9 Task 2\Lession 9 Task 2.cpp(91,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\italy\source\repos\Lession 9 Task 2\Lession 9 Task 2.cpp(91,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-  Lession 9 Task 2.vcxproj -> C:\Users\italy\source\repos\Lession 9 Task 2\x64\Debug\Lession 9 Task 2.exe
